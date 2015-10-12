@@ -15,8 +15,6 @@ namespace Lesson2
              
         private void CarRent_Load(object sender, System.EventArgs e)
         {
-            _DateTo = dateTimePicker1.Value;
-            _DateFrom = dateTimePicker2.Value;
             RefreshListOfCars();
         }
 
@@ -46,6 +44,8 @@ namespace Lesson2
 
         private void RefreshListOfCars()
         {
+            _DateTo = dateTimePicker1.Value;
+            _DateFrom = dateTimePicker2.Value;
             CarList.Items.Clear();
             CarList.Items.AddRange(_CarService.GetAvailableCars(_DateFrom, _DateTo).ToArray());
             //if (CarList.Items.Count > 0) CarList.SelectedItem = CarList.Items[0];

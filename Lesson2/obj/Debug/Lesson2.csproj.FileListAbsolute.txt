@@ -9,3 +9,14 @@ C:\Users\Алина\Documents\Lesson2\Lesson2\obj\Debug\Lesson2.Properties.Resou
 C:\Users\Алина\Documents\Lesson2\Lesson2\obj\Debug\Lesson2.csproj.GenerateResource.Cache
 C:\Users\Алина\Documents\Lesson2\Lesson2\obj\Debug\Lesson2.exe
 C:\Users\Алина\Documents\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\Алина\Documents\HWLesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\Алина\Documents\HWLesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\Алина\Documents\HWLesson2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\Алина\Documents\HWLesson2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\Алина\Documents\HWLesson2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\Алина\Documents\HWLesson2\Lesson2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Алина\Documents\HWLesson2\Lesson2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Алина\Documents\HWLesson2\Lesson2\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache
+C:\Users\Алина\Documents\HWLesson2\Lesson2\obj\Debug\Lesson2.CarRent.resources
+C:\Users\Алина\Documents\HWLesson2\Lesson2\obj\Debug\Lesson2.Properties.Resources.resources
+C:\Users\Алина\Documents\HWLesson2\Lesson2\obj\Debug\Lesson2.csproj.GenerateResource.Cache
